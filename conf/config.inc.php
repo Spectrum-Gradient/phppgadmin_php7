@@ -1,0 +1,1 @@
+/etc/webapps/phppgadmin/config.inc.php
